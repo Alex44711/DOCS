@@ -1,5 +1,5 @@
 React is a browser lib live JQuery, it can run in browser independently.
-Node is localization tool, provide API which access localhost, like files. It's a *running environment*, like JAVA JVM
+Node is localization tool, provide API which access localhost, like files. It's a **running environment**, like JAVA JVM
 React can be built on Node, ez to add npm packages.
 
 React can generate complex UI from several code components.
@@ -22,7 +22,7 @@ when we need multiple child components, need to put the child components' state 
 
 When the state of Board changed, all squares will be re-rendered.
 
-Any update of *state* or *props* will cause re-rendering of React. 
+Any update of **state** or **props** will cause re-rendering of React. 
 
 Procedure:
   1. make a blank board 3x3
